@@ -23,7 +23,7 @@
     padding-left: 20px;
     padding-right: 20px;
 }
-
+/* Main */
 .main {
     height: 800px;
     width: auto;
@@ -145,8 +145,6 @@ button {
     margin-top: 10px;
     margin-left: 10px;
 }
-
-
 
 .col2 {
     width: 400px;
